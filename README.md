@@ -27,12 +27,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/sonarcloud/F3702A" alt="sonarcloud" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/diagramsdotnet" alt="drawio" width="40" height="40" title="draw.io"/>
 
-<img src="https://cdn.simpleicons.org/diagramsdotnet" alt="drawio" width="40" height="40" title="draw.io (diagrams.net)"/>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original-wordmark.svg" alt="sonarqube" height="85"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/sonarcloud.svg" alt="sonarcloud" height="60"/>
 
 </div>
 
