@@ -11,9 +11,9 @@
 
 ### Hola, soy Ale
 
-Estudiante de Ingeniería Informática en la Universidad de La Laguna (Tenerife), en el tramo final del grado. Actualmente centrado en mi TFG sobre **entrenamiento distribuido de modelos Transformer**, en el cruce entre sistemas y aprendizaje automático.
+Estudiante de Ingeniería Informática en la Universidad de La Laguna (Tenerife), en el tramo final del grado. Actualmente centrado en mi TFG sobre **entrenamiento distribuido de modelos Transformer** y realizando las prácticas externas.
 
-Me interesa el diseño de software, la arquitectura de sistemas y la IA aplicada. Fuera del código: deporte, naturaleza y viajes.
+Me interesa el diseño de software y la IA aplicada. Fuera del código: deporte, naturaleza y viajes.
 
 ---
 
