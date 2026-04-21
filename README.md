@@ -19,7 +19,7 @@ Me interesa el diseño de software, la arquitectura de sistemas y la IA aplicada
 
 ### Actualmente trabajando en
 
-- 🎓 **TFG** — Entrenamiento distribuido de modelos abiertos de aprendizaje automático basados en Transformers
+- **TFG** — Entrenamiento distribuido de modelos abiertos de aprendizaje automático basados en Transformers
 
 ---
 
@@ -38,8 +38,8 @@ Me interesa el diseño de software, la arquitectura de sistemas y la IA aplicada
 
 <div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48"/><br>PyTorch | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48"/><br>HuggingFace | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/><br>NumPy | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/><br>Pandas | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/><br>Jupyter |
-|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48"/><br>PyTorch | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48"/><br>HuggingFace | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/><br>NumPy | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/><br>Pandas | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48"/><br>Jupyter | <img src="https://cdn.simpleicons.org/googlecolab" width="48" height="48"/><br>Colab |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
