@@ -19,7 +19,7 @@ Me interesa el diseño de software, la arquitectura de sistemas y la IA aplicada
 
 ### Actualmente trabajando en
 
-- 🎓 **TFG** — Entrenamiento distribuido de modelos abiertos de aprendizaje automático basados en Transformers (PyTorch, HuggingFace, BigEarthNet-S2)
+- 🎓 **TFG** — Entrenamiento distribuido de modelos abiertos de aprendizaje automático basados en Transformers
 
 ---
 
